@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq; // Додано для використання Linq, якщо потрібно, але в цьому коді не обов'язково
+using System.Linq; 
 
 class Program
 {
