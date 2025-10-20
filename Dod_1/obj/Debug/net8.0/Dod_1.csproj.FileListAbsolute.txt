@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Dod_1\bin\Debug\net8.0\Dod_1.exe
+C:\Users\1\source\repos\Dod_1\bin\Debug\net8.0\Dod_1.deps.json
+C:\Users\1\source\repos\Dod_1\bin\Debug\net8.0\Dod_1.runtimeconfig.json
+C:\Users\1\source\repos\Dod_1\bin\Debug\net8.0\Dod_1.dll
+C:\Users\1\source\repos\Dod_1\bin\Debug\net8.0\Dod_1.pdb
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.AssemblyInfo.cs
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.sourcelink.json
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.dll
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\refint\Dod_1.dll
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.pdb
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\Dod_1.genruntimeconfig.cache
+C:\Users\1\source\repos\Dod_1\obj\Debug\net8.0\ref\Dod_1.dll
