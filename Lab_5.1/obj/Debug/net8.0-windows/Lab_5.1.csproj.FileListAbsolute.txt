@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5._1.Form1.resources
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.AssemblyInfo.cs
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.sourcelink.json
+C:\Users\1\source\repos\Lab_5.1\bin\Debug\net8.0-windows\Lab_5.1.exe
+C:\Users\1\source\repos\Lab_5.1\bin\Debug\net8.0-windows\Lab_5.1.deps.json
+C:\Users\1\source\repos\Lab_5.1\bin\Debug\net8.0-windows\Lab_5.1.runtimeconfig.json
+C:\Users\1\source\repos\Lab_5.1\bin\Debug\net8.0-windows\Lab_5.1.dll
+C:\Users\1\source\repos\Lab_5.1\bin\Debug\net8.0-windows\Lab_5.1.pdb
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.dll
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\refint\Lab_5.1.dll
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.pdb
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\Lab_5.1.genruntimeconfig.cache
+C:\Users\1\source\repos\Lab_5.1\obj\Debug\net8.0-windows\ref\Lab_5.1.dll
